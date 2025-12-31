@@ -143,7 +143,7 @@ def launch_profiles():
 # Main execution
 count = increment_launch_count()
 # Show popup every 50 launches
-if count > 0 and count % 1 == 0:
+if count > 0 and count % 50 == 0:
     user_choice = show_support_popup()
     
     if user_choice == "support":
