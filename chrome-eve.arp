@@ -1,0 +1,48 @@
+{
+  "local": {
+    "InstallDate": 1767179492064,
+    "clientId": "1e056489-d6bf-4e47-bd6a-8858a8531c6d",
+    "domain_config": {},
+    "format_update_date": "December 31, 2025",
+    "options": {
+      "asrefresh": true,
+      "asrestart": false,
+      "asurl": "*.fiverr.com/*",
+      "autostart": true,
+      "clickInteraction": false,
+      "default_time": 300,
+      "defaultpgtxt": "",
+      "domains": {},
+      "hotkeys": false,
+      "ignoreInputField": true,
+      "interactions": false,
+      "keyboardInteraction": false,
+      "pdcheck": false,
+      "pdurl": "",
+      "pm_sound_til": "sound",
+      "pm_sound_timeout": 5,
+      "pmemail": "",
+      "pmpattern": "A",
+      "random_time": true,
+      "restartDefault": false,
+      "rpt": false,
+      "rpttext": "",
+      "scrollToKeyword": true,
+      "sound": "3",
+      "soundurl": "",
+      "soundvolume": 1,
+      "tabAlertSection": true,
+      "tabAlertTime": 1,
+      "timercheck": true,
+      "urlChangeFollow": 1,
+      "visualPosition": "1",
+      "visualtimer": false,
+      "windowFocus": false
+    },
+    "version": 8
+  },
+  "sync": {},
+  "storage": {
+    "welcome": "1"
+  }
+}
