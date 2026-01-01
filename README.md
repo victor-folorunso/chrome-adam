@@ -39,17 +39,6 @@ Download **Chrome Adam** from [Releases](https://github.com/victor-folorunso/chr
 
 #### Option B: Auto-Start on Login (Recommended)
 1. Press `Win + R`
-2. Type `taskschd.msc` → Press **OK**
-3. Click **Create Basic Task**
-4. Name it (e.g., "Chrome Adam")
-5. Trigger: **When I log on**
-6. Action: **Start a program**
-7. Program path: Enter full path to exe (e.g., `C:\Users\PC\Desktop\chrome-adam.exe`)
-8. Click **Next** → **Finish**
-9. Restart your PC to test
-
-#### Option C: Startup Folder (Alternative)
-1. Press `Win + R`
 2. Type `shell:startup` → Press **OK**
 3. Copy `chrome-adam.exe` into the folder that opens
 4. Restart your PC
@@ -67,6 +56,7 @@ Download **Chrome Adam** from [Releases](https://github.com/victor-folorunso/chr
 ## Issues?
 
 Open an issue on GitHub
+
 
 
 
