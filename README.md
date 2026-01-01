@@ -60,7 +60,7 @@ Download **Chrome Adam** from [Releases](https://github.com/victor-folorunso/chr
 
 ⭐ **Star this repo** if Chrome Adam saves you time!
 
-☕ **Support development:** [I want to support!](https://paystack.shop/pay/chrome-adam)
+☕ **Support development:** [I want to support!](https://flutterwave.com/donate/znj7gw4ufsta)
 
 ---
 
