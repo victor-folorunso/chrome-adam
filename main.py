@@ -55,7 +55,7 @@ def show_support_popup():
     
     def on_support():
         result["choice"] = "support"
-        webbrowser.open("https://paystack.shop/pay/chrome-adam")
+        webbrowser.open("https://flutterwave.com/donate/znj7gw4ufsta")
         root.destroy()
 
     def on_decline():
