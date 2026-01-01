@@ -12,7 +12,7 @@ Launch all your Chrome profiles instantly with one click.
 
 ### Step 1: Install Chrome Eve Extension Settings
 
-1. Download **Chrome Eve** from the [Here](https://github.com/victor-folorunso/chrome-adam/blob/main/chrome-eve.arp)
+1. Download **Chrome Eve** from [Here](https://github.com/victor-folorunso/chrome-adam/blob/main/chrome-eve.arp)
 2. In Chrome, click on your **Auto Refresh Plus** extension → Open Settings
 3. Scroll to **Side Menu** → **Settings Backup**
 4. Click **Import** and select the Chrome Eve file you downloaded
@@ -60,13 +60,14 @@ Download **Chrome Adam** from [Releases](https://github.com/victor-folorunso/chr
 
 ⭐ **Star this repo** if Chrome Adam saves you time!
 
-☕ **Support development:** [Your donation link]
+☕ **Support development:** [I want to support!](https://paystack.shop/pay/chrome-adam)
 
 ---
 
 ## Issues?
 
-Open an issue on GitHub or contact [your contact info]
+Open an issue on GitHub
+
 
 
 
