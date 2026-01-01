@@ -1,65 +1,3 @@
-﻿# chrome-adam
-
-# step 1: setupchrome eve
-step2: configure browser
-step3: set up chrome adam
-
-
-1
-go to the file in the project and download chrome eve. 
-dont worry if you cant open the file.
-go to chrome and click on your auto refresh plus extension and open its setting
-scroll down to the side menu settings backup. click that
-there will be two options export or import. click on import and import the chrome eve you downloaded
-
-
-2
-on your chrome browser click on the three dots and open settings. 
-click on the side menu on startup
-click on open a specific page or set of pages
-click add a new page. this will show a pop up.
-in the pop up enter https://www.fiverr.com/inbox and click add
-
-3
-download chrome adam from the releases
-you have three options
-1. run chrome adam every time you want to open all accounts by clicking (or double clicking) on the exe
-2. add to schedule. so that chrome adam will automatically run every time you sign in
-click win + r
-enter taskschd.msc and press ok
-click create basic task
-give it any name
-set the trigger to when i log on
-next is what action to perform. leave it as start a program and click next
-enter the full path to the chromeadam exe. for example 
-C:\Users\PC\Desktop\chrome-adam.exe
-
-click next and finish and you are done
-now restart your pc
-
-3. (experimental) press win + r
-enter shell:startup
-press ok
-a folder will pop up
-copy chromeadam into the folder
-close it and restart your pc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Chrome Adam 🚀
 
 Launch all your Chrome profiles instantly with one click.
@@ -74,7 +12,7 @@ Launch all your Chrome profiles instantly with one click.
 
 ### Step 1: Install Chrome Eve Extension Settings
 
-1. Download **Chrome Eve** from the [Releases](link-to-releases) page
+1. Download **Chrome Eve** from the [Here](https://github.com/victor-folorunso/chrome-adam/blob/main/chrome-eve.arp)
 2. In Chrome, click on your **Auto Refresh Plus** extension → Open Settings
 3. Scroll to **Side Menu** → **Settings Backup**
 4. Click **Import** and select the Chrome Eve file you downloaded
@@ -94,7 +32,7 @@ Launch all your Chrome profiles instantly with one click.
 
 ### Step 3: Run Chrome Adam
 
-Download **Chrome Adam** from [Releases](link-to-releases)
+Download **Chrome Adam** from [Releases](https://github.com/victor-folorunso/chrome-adam/releases/tag/chrome-adam-v1.0)
 
 #### Option A: Manual Launch (Simplest)
 - Double-click `chrome-adam.exe` whenever you want to open all profiles
@@ -129,6 +67,7 @@ Download **Chrome Adam** from [Releases](link-to-releases)
 ## Issues?
 
 Open an issue on GitHub or contact [your contact info]
+
 
 
 
